@@ -6,9 +6,9 @@
 
 An open-source project for detecting fraudulent car damage insurance claims using machine learning techniques.
 
-![Project Image](https://miro.medium.com/v2/resize:fit:601/1*xSqK9iS7nZAaB-Sdwiwjow.png)
+![Project Image](https://www.manoramaonline.com/content/dam/mm/mo/fasttrack/auto-tips/images/2023/1/29/vehicle-insurance.jpg.image.470.246.jpg)
 
-![Project Image](https://miro.medium.com/v2/resize:fit:750/1*Lci4cCUXgb6zZRyKmgWfVA.png)
+![Project Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rateforce.com%2Fblog%2Fauto-insurance%2Fcar-insurance-fraud%2F&psig=AOvVaw1AxgqP0A4L1EvSIqIQi-s3&ust=1697039090089000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjA7bLp64EDFQAAAAAdAAAAABAq)
 
 ## Table of Contents
 
