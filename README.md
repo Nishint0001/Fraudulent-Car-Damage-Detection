@@ -8,7 +8,7 @@ An open-source project for detecting fraudulent car damage insurance claims usin
 
 ![Project Image](https://www.manoramaonline.com/content/dam/mm/mo/fasttrack/auto-tips/images/2023/1/29/vehicle-insurance.jpg.image.470.246.jpg)
 
-![Project Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rateforce.com%2Fblog%2Fauto-insurance%2Fcar-insurance-fraud%2F&psig=AOvVaw1AxgqP0A4L1EvSIqIQi-s3&ust=1697039090089000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjA7bLp64EDFQAAAAAdAAAAABAq)
+![Project Image](https://www.rateforce.com/wp-content/uploads/2022/03/types-of-car-insurance-fraud-image.jpg)
 
 ## Table of Contents
 
