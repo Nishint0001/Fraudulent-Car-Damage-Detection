@@ -111,8 +111,6 @@ The project has achieved remarkable results in detecting fraudulent car damage i
 ## Contributors
 
 - [Nishint Goyal (Nishint0001)](https://github.com/Nishint0001) - Project creator and primary contributor.
-- [Contributor 1 (GitHub Username)](https://github.com/username1) - Contributed to data preprocessing and model training.
-- [Contributor 2 (GitHub Username)](https://github.com/username2) - Assisted in documentation and CLI development.
 
 ## License
 
